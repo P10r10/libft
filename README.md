@@ -1,3 +1,4 @@
 # libft
 Project for 42 Lisboa - re-write standard C functions.
-Refer to _libft_subject.pdf_ for further enlightment.
+Further enlightment:
+https://github.com/P10r10/libft/blob/main/libft_subject.pdf
